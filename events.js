@@ -13,3 +13,5 @@ playerHandler.on('newPlayer', (name) => {
 });
 
 playerHandler.emit('newPlayer', 'Greyworm');
+
+//Added comments
